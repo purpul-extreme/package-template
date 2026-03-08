@@ -4,7 +4,7 @@
 
 ## Setup
 
-Install [Rokit](https://github.com/rojo-rbx/rokit), then run:
+Download and install [Rokit](https://github.com/rojo-rbx/rokit/releases), then run:
 ```sh
 rokit install
 wally install
