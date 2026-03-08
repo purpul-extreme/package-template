@@ -3,7 +3,7 @@
 registry = "test"
 
 [[package]]
-name = "purpul/my-library"
+name = "author/package"
 version = "0.1.0"
 dependencies = [["TestEZ", "roblox/testez@0.4.1"]]
 
