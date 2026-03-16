@@ -8,10 +8,10 @@
 
     "luau-lsp.diagnostics.strictDatamodelTypes": true,
     "luau-lsp.fflags.enableNewSolver": true,
-    "luau-lsp.sourcemap.rojoProjectFile": "test-place.project.json",
 
     "luau-lsp.ignoreGlobs": ["**/_Index/**"],
 
+    "luau-lsp.sourcemap.autogenerate": false,
     "luau-lsp.completion.autocompleteEnd": true,
     "luau-lsp.completion.imports.separateGroupsWithLine": true,
 
