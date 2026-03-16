@@ -1,6 +1,6 @@
 # Package Template
 
-A template with [TestEZ](https://github.com/Roblox/testez) testing, [Selene](https://github.com/Kampfkarren/selene) linting, and [StyLua](https://github.com/JohnnyMorganz/StyLua) formatting preconfigured.
+A template for creating and publishing Roblox packages with [TestEZ](https://github.com/Roblox/testez) testing, [Selene](https://github.com/Kampfkarren/selene) linting, and [StyLua](https://github.com/JohnnyMorganz/StyLua) formatting preconfigured.
 
 ## Setup
 
