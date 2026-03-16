@@ -15,7 +15,7 @@ wally install
 .
 ├── src/                        # Package source code
 ├── test/                       # Test scripts (TestEZ)
-├── default.project.json        # Rojo project for the package
+├── default.project.json        # Rojo project for publishing
 ├── test-place.project.json     # Rojo project for local development & testing
 ├── wally.toml                  # Package manifest
 └── rokit.toml                  # Tool versions
